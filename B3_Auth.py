@@ -39,8 +39,8 @@ o=("------------------------------------------------------------")
 print(B+o)
 combo=input(X+'COMBO NAME :'+X)
 y=open(f'{combo}',"+r")
-token = input('TOKEN YOUR BOT : '7281542739:AAEX9ZEC3M55GD66rsIuxCMusp2YWEl1ny4')
-ID = input('ID : '549247474')
+token = input('TOKEN YOUR BOT : 7281542739:AAEX9ZEC3M55GD66rsIuxCMusp2YWEl1ny4')
+ID = input('ID : 549247474')
 start_num = 0
 F = '\033[2;32m'
 Z= '\033[2;31m'
